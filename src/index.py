@@ -32,7 +32,7 @@ def main():
 
     huono_testi()
 
-    print("\nOlutvarasto:", olutta, "\nolutta.lisaa_varastoon(1000.0)")
+    print("\nOlutvarasto:", olutta, "\nolutta.lisaa_varastoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooon(1000.0)")
     olutta.lisaa_varastoon(1000.0)
     print(
         "Olutvarasto:", olutta, 
